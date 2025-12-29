@@ -33,7 +33,7 @@ int inter(int a);
 
 int main()
 {
-    system("chcp 1251"); //изменение кодировки вывода
+    //system("chcp 1251"); //изменение кодировки вывода
     //setlocale(LC_ALL, "Russian"); - аналог для вывода русских букв
     //Типы данных и работа с ними в C++
     bool lessen1 = false;
